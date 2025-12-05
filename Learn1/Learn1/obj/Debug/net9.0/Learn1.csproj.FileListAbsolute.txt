@@ -1,0 +1,14 @@
+/Users/gis/GIS/learn/Learn1/Learn1/bin/Debug/net9.0/Learn1
+/Users/gis/GIS/learn/Learn1/Learn1/bin/Debug/net9.0/Learn1.deps.json
+/Users/gis/GIS/learn/Learn1/Learn1/bin/Debug/net9.0/Learn1.runtimeconfig.json
+/Users/gis/GIS/learn/Learn1/Learn1/bin/Debug/net9.0/Learn1.dll
+/Users/gis/GIS/learn/Learn1/Learn1/bin/Debug/net9.0/Learn1.pdb
+/Users/gis/GIS/learn/Learn1/Learn1/obj/Debug/net9.0/Learn1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gis/GIS/learn/Learn1/Learn1/obj/Debug/net9.0/Learn1.AssemblyInfoInputs.cache
+/Users/gis/GIS/learn/Learn1/Learn1/obj/Debug/net9.0/Learn1.AssemblyInfo.cs
+/Users/gis/GIS/learn/Learn1/Learn1/obj/Debug/net9.0/Learn1.csproj.CoreCompileInputs.cache
+/Users/gis/GIS/learn/Learn1/Learn1/obj/Debug/net9.0/Learn1.dll
+/Users/gis/GIS/learn/Learn1/Learn1/obj/Debug/net9.0/refint/Learn1.dll
+/Users/gis/GIS/learn/Learn1/Learn1/obj/Debug/net9.0/Learn1.pdb
+/Users/gis/GIS/learn/Learn1/Learn1/obj/Debug/net9.0/Learn1.genruntimeconfig.cache
+/Users/gis/GIS/learn/Learn1/Learn1/obj/Debug/net9.0/ref/Learn1.dll
