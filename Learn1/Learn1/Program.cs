@@ -39,6 +39,7 @@
                         CanRead = true,
                         CanCreate = true,
                         CanUpdate = false,
+                        
                         CanDelete = false,
                     }
                 ]
